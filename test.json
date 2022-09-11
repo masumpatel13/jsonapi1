@@ -1,5 +1,5 @@
 {
-    "total_size": 8,
+    "total_size": 6,
     "type_id": 2,
     "offset": 0,
     "products": [
@@ -68,6 +68,28 @@
             "name": "Hilsha fish",
             "description": "Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.",
             "price": 12,
+            "stars": 5,
+            "img": "images\/1343ce6cf6792383dfc071727afd5c46.jpeg",
+            "location": "china",
+            "created_at": "2021-12-27 06:35:34",
+            "updated_at": "2022-01-01 08:56:22",
+            "type_id": 2
+        }{
+            "id": 13,
+            "name": "Paneer Tikka",
+            "description": "Paneer tikka is an Indian dish made from chunks of paneer marinated in spices and grilled in a tandoor. It is a vegetarian alternative to chicken tikka and other meat dishes. It is a popular dish that is widely available in India and countries with an Indian diaspora. When paneer tikka is served with a sauce, it is called paneer tikka masala. Chunks of paneer, a type of fresh cheese, are marinated in spices and are then arranged on a stick with capsicums (bell peppers), onions and tomatoes. These sticks are grilled in a tandoor and the dish is thereafter served hot, seasoned with lemon juice and chaat masala. It is sometimes accompanied by salad or mint chutney. Tikka dishes traditionally go well with mint chutney. The paneer, though tender, has a crisp singe on the surface.",
+            "price": 18,
+            "stars": 5,
+            "img": "images\/1343ce6cf6792383dfc071727afd5c46.jpeg",
+            "location": "china",
+            "created_at": "2021-12-27 06:35:34",
+            "updated_at": "2022-01-01 08:56:22",
+            "type_id": 2
+        }{
+            "id": 8,
+            "name": "Dal Tadka",
+            "description": "Dal Tadka is a popular Indian lentil dish made with arhar dal (husked & split pigeon pea lentils) or masoor dal (husked & split red lentils). This Dal Tadka recipe gives you a delicious creamy dal with smoked flavors. Dal Tadka is one of the most popular lentil dish served in Indian restaurants. Basically, dal tadka is cooked lentils which are tempered with oil or ghee fried spices & herbs. I have to admit that I simply love the dal tadka that is served at the restaurants even though we hardly eat out. So I try to recreate the restaurant magic in most of the food that I make at home. Here the restaurant style flavors come from smoking the dal using a red-hot charcoal. Generally dal tadka is made with tuvar dal or arhar dal also known as split pigeon pea lentils. In this post, I have shared the dal recipe made with tuvar dal.",
+            "price": 13,
             "stars": 5,
             "img": "images\/1343ce6cf6792383dfc071727afd5c46.jpeg",
             "location": "china",
