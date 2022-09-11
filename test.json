@@ -1,5 +1,5 @@
 {
-    "total_size": 8,
+    "total_size": 6,
     "type_id": 2,
     "offset": 0,
     "products": [
@@ -66,6 +66,30 @@
         {
             "id": 11,
             "name": "Hilsha fish",
+            "description": "Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.",
+            "price": 12,
+            "stars": 5,
+            "img": "images\/1343ce6cf6792383dfc071727afd5c46.jpeg",
+            "location": "china",
+            "created_at": "2021-12-27 06:35:34",
+            "updated_at": "2022-01-01 08:56:22",
+            "type_id": 2
+        }
+        {
+            "id": 15,
+            "name": "Dal Tadka",
+            "description": "Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.",
+            "price": 12,
+            "stars": 5,
+            "img": "images\/1343ce6cf6792383dfc071727afd5c46.jpeg",
+            "location": "china",
+            "created_at": "2021-12-27 06:35:34",
+            "updated_at": "2022-01-01 08:56:22",
+            "type_id": 2
+        }
+        {
+            "id": 13,
+            "name": "Paneer Tikka",
             "description": "Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.Ilish Mach aka Hilsa fish is in the season and needless to say, I cooked it a few times this year as well. This year, however, I have used Ilish mach to make simple delicacies mostly. Ilish Beguner Jhol is probably the simplest of the lot, well, after Ilish Mach Bhaja.",
             "price": 12,
             "stars": 5,
